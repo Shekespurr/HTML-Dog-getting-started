@@ -1,1 +1,1 @@
-Testing how to use git along with HTML dog tutorial
+Practicing how to use git along with HTML dog tutorial
